@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1031685606322-fd1ip3isve0s8cj1trbr7ebs18q7tliu.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1031685606322-fd1ip3isve0s8cj1trbr7ebs18q7tliu</string>
+	<key>API_KEY</key>
+	<string>AIzaSyADE3Tx3DrU1soh8MM3dT2stT2cLGz_jXo</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1031685606322</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>dmytro.neboha.FirebaseUploadPhoto</string>
+	<key>PROJECT_ID</key>
+	<string>fir-uploadphoto-f3ef7</string>
+	<key>STORAGE_BUCKET</key>
+	<string>fir-uploadphoto-f3ef7.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1031685606322:ios:9ed7722e72b89b1118b2ab</string>
+</dict>
+</plist>
